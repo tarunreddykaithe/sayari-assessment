@@ -1,0 +1,827 @@
+ofac_id,grb_id,Type,Name,name_matches,atleast_1_date_of_births_matches,atleast_1_aliases_matches,atleast_1_id_numbers_matches
+2676,7016,Individual,Dr. Ayman AL ZAWAHIRI,false,true,false,true
+4688,6935,Entity,ABU SAYYAF GROUP,true,,false,
+4690,6963,Entity,ARMED ISLAMIC GROUP,true,,false,
+4697,13804,Entity,HIZBALLAH,true,,false,false
+6725,7199,Entity,ISLAMIC MOVEMENT OF UZBEKISTAN,true,,false,
+6896,7031,Entity,ASBAT AL-ANSAR,true,,,
+6898,7249,Entity,LIBYAN ISLAMIC FIGHTING GROUP,true,,,
+6900,7205,Entity,ISLAMIC ARMY OF ADEN,true,,,
+6911,6972,Entity,WAFA HUMANITARIAN ORGANIZATION,true,,false,
+6912,6968,Entity,AL RASHID TRUST,true,,false,
+6919,7008,Individual,Abdelkarim Hussein Mohamed AL-NASSER,true,,,
+6920,7015,Individual,Ibrahim Salih Mohammed AL-YACOUB,true,true,,
+6925,6925,Individual,Ahmed Khalfan GHAILANI,true,true,false,
+6931,7478,Individual,Abdul Rahman YASIN,true,true,false,true
+6935,7029,Entity,JAISH-I-MOHAMMED,true,,false,
+6936,7212,Entity,JAM'YAH TA'AWUN AL-ISLAMIA,true,,false,
+6937,7407,Entity,RABITA TRUST,true,,,
+6939,6973,Individual,Muhammad AL-HAMATI,false,,true,
+6940,6944,Individual,Amin AL-HAQ,false,false,true,
+6941,6997,Individual,Salim Ahmad Salim HAMDAN,true,false,false,true
+6945,7099,Individual,Bilal BIN MARWAN,true,false,,
+6948,6974,Individual,Riad HIJAZI,false,false,false,true
+6950,6932,Individual,Omar Mahmoud UTHMAN,true,true,false,
+7006,6995,Individual,Hassan Dahir AWEYS,true,false,false,
+7135,6901,Individual,Abdul MAJEED,false,true,true,
+7138,7517,Individual,Mohammed TUFAIL,true,true,false,
+7148,6998,Individual,Boubekeur BOULGHITI,true,true,false,false
+7149,7210,Entity,REVIVAL OF ISLAMIC HERITAGE SOCIETY,true,,false,
+7150,6927,Individual,Abd al-Muhsin AL-LIBI,false,false,false,true
+7199,6991,Entity,AL-HARAMAIN ISLAMIC FOUNDATION,true,,false,
+7203,7024,Individual,Mohamed Ben Belgacem AOUADI,false,true,false,true
+7204,7087,Individual,Lased BEN HENI,false,true,true,
+7207,7128,Individual,Abdelkader Mahmoud ES SAYED,false,true,false,true
+7208,7091,Individual,Sami Ben Khemais ESSID,false,true,false,true
+7209,6962,Individual,Khalid Abd al-Rahman Hamd AL-FAWAZ,true,true,false,true
+7251,7092,Individual,Adel BEN SOLTANE,false,true,false,true
+7253,7105,Individual,Yassine CHEKKOURI,true,true,,
+7255,7220,Individual,Mehdi KAMMOUN,false,true,false,true
+7257,7255,Individual,Tarek Ben Habib Ben Al-Toumi MAAROUFI,false,true,,true
+7264,7059,Individual,Said BAHAJI,true,true,,
+7265,7098,Individual,Ramzi Mohammed Abdullah BINALSHIBH,false,true,false,true
+7266,7124,Individual,Mounir EL MOTASSADEQ,true,true,,
+7267,7131,Individual,Zakarya ESSABAR,true,true,false,
+7321,6961,Entity,BENEVOLENCE INTERNATIONAL FOUNDATION,true,,false,false
+7324,7149,Entity,MOROCCAN ISLAMIC COMBATANT GROUP,true,,false,
+7328,7156,Individual,Nurjaman Riduan ISAMUDDIN,true,true,false,
+7329,6894,Individual,Mohamad Iqbal ABDURRAHMAN,true,true,false,true
+7472,7021,Entity,ANSAR AL-ISLAM,true,,false,
+7638,8531,Entity,AL-AQSA E.V.,true,,false,
+7828,7795,Individual,Mehrez AMDOUNI,false,true,false,true
+7831,7797,Individual,Lionel DUMONT,true,true,false,
+7832,7798,Individual,Moussa Ben Amor Ben Ali ESSAADI,false,true,false,true
+7835,7808,Individual,Khalil JARRAYA,false,true,false,true
+7843,7612,Individual,Saddam Hussein AL-TIKRITI,true,true,false,
+7844,7613,Individual,Qusay Saddam Hussein AL-TIKRITI,true,false,,
+7845,7614,Individual,Uday Saddam Hussein AL-TIKRITI,true,false,false,
+7846,7619,Individual,Abid Hamid Mahmud AL-TIKRITI,true,true,false,
+7847,7584,Individual,Ali Hassan al-Majid AL-TIKRITI,true,false,false,
+7848,7580,Individual,Izzat Ibrahim AL-DURI,true,true,false,
+7849,7626,Individual,Hani abd-al-Latif Tilfah AL-TIKRITI,true,true,,
+7850,7589,Individual,Aziz Salih AL-NUMAN,true,false,,
+7851,7628,Individual,Muhammad Hamza ZUBAIDI,true,false,false,
+7853,7620,Individual,Barzan abd al-Ghafur Sulaiman Majid AL-TIKRITI,true,false,false,
+7854,7609,Individual,Muzahim Sa'b Hassan AL-TIKRITI,true,true,,
+7855,7621,Individual,Ibrahim Ahmad abd al-Sattar Muhammed AL-TIKRITI,true,false,,
+7856,7591,Individual,Saif-al-Din Fulayyih Hassan Taha AL-RAWI,true,false,false,
+7857,7627,Individual,Rafi abd-al-Latif Tilfah AL-TIKRITI,true,true,,
+7858,7606,Individual,Tahir Jalil Habbush AL-TIKRITI,true,false,,
+7859,7622,Individual,Hamid Raja Shalah AL-TIKRITI,true,false,false,
+7860,7579,Individual,Latif Nusayyif Jasim AL-DULAYMI,true,true,,
+7862,7582,Individual,Taha Yassin Ramadan AL-JIZRAWI,true,true,false,
+7863,7623,Individual,Rukan Razuki abd-al-Ghafur Sulaiman AL-TIKRITI,true,false,false,
+7864,7624,Individual,Jamal Mustafa Abdallah Sultan AL-TIKRITI,true,true,,
+7865,7607,Individual,Mizban Khadr HADI,true,false,,
+7866,7617,Individual,Taha Muhyi-al-Din MA'RUF,true,false,false,
+7867,7603,Individual,Tariq AZIZ,true,true,false,false
+7868,7625,Individual,Walid Hamid Tawfiq AL-TIKRITI,true,true,false,
+7870,7578,Individual,Hikmat Mizban Ibrahim AL-AZZAWI,true,false,,
+7872,7590,Individual,Ayad Futayyih Khalifa AL-RAWI,true,false,,
+7874,7592,Individual,Amir Hamudi Hassan AL-SA'DI,true,true,,true
+7876,7600,Individual,Husam Muhammad Amin AL-YASSIN,true,false,,
+7878,7610,Individual,Sab'awi Ibrahim Hassan AL-TIKRITI,true,false,false,
+7879,7611,Individual,Watban Ibrahim Hassan AL-TIKRITI,true,false,false,
+7880,7608,Individual,Barzan Ibrahim Hassan AL-TIKRITI,true,false,false,false
+7881,7602,Individual,Huda Salih Mahdi AMMASH,true,false,,
+7883,7594,Individual,Muhammad Zimam abd-al-Razzaq AL-SA'DUN,true,false,,
+7884,7587,Individual,Samir abd al-Aziz AL-NAJIM,true,false,,
+7885,7574,Individual,Humam abd-al-Khaliq ABD-AL-GHAFUR,true,false,false,
+7886,7599,Individual,Yahia Abdallah AL-UBAIDI,true,,,
+7887,7604,Individual,Nayif Shindakh Thamir GHALIB,true,,,
+7888,7585,Individual,Saif-al-Din AL-MASHHADANI,true,false,,
+7889,7605,Individual,Fadil Mahmud GHARIB,true,false,false,
+7890,7583,Individual,Muhsin Khadr AL-KHAFAJI,true,,,
+7893,7598,Individual,Ghazi Hammud AL-UBAIDI,true,false,,
+7894,7618,Individual,Adil Abdallah MAHDI,true,false,,
+7896,7586,Individual,Khamis Sirhan AL-MUHAMMAD,true,,false,
+7913,7886,Individual,Usama HAMDAN,true,false,,
+7914,7887,Individual,Khalid MISHAAL,true,false,,
+7921,7842,Individual,Agus DWIKARNA,true,true,,
+7924,7840,Individual,Aris MUNANDAR,true,true,,
+7925,7843,Individual,Abdul Hakim MURAD,true,false,false,
+7927,7838,Individual,Parlindungan SIREGAR,true,true,false,
+7928,7834,Individual,Yassin SYAWAL,true,true,false,
+7929,7835,Individual,Mukhlis YUNOS,false,false,true,
+7936,7848,Individual,Yazid SUFAAT,true,true,false,false
+7944,7860,Individual,Djamel MOUSTFA,true,true,false,
+7946,8703,Entity,AL-AKHTAR TRUST INTERNATIONAL,true,,false,
+8084,7881,Individual,Mokhtar BELMOKHTAR,true,true,,
+8087,7997,Individual,Djamel LOUNICI,true,true,,
+8091,7874,Individual,Hamadi Ben Abdul Aziz Ben Ali BOUYAHIA,false,true,false,true
+8093,7879,Individual,Noureddine Ben Ali Ben Belkassem DRISSI,false,true,,true
+8094,7865,Individual,Radi Abd El Samie Abou El Yazid EL AYASHI,true,true,false,
+8096,7878,Individual,Kamel Ben Mouldi Ben Hassan HAMRAOUI,false,true,false,true
+8098,7868,Individual,Mohamed Amin MOSTAFA,true,true,,
+8103,7876,Individual,Imed Ben Mekki Ben Al-Akhdar ZARKAOUI,false,true,false,true
+8104,7890,Individual,Saifi AMMARI,true,true,false,
+8175,8008,Individual,Shaykh Abd-al-Majid AL-ZINDANI,false,true,false,true
+8184,8245,Individual,Jawhar Majid AL-DURI,true,true,,
+8185,8246,Individual,Nidal AL-RABI'I,true,true,,
+8186,8248,Individual,Ali Barzan Ibrahim Hasan AL-TIKRITI,true,true,,
+8187,8247,Individual,Ali Saddam Hussein AL-TIKRITI,true,false,false,
+8188,8249,Individual,Hala Saddam Hussein AL-TIKRITI,true,false,,
+8189,8250,Individual,Khawla Barzan Ibrahim Hasan AL-TIKRITI,true,true,,
+8190,8251,Individual,Mohammad Barzan Ibrahim Hasan AL-TIKRITI,true,true,,
+8191,8252,Individual,Noor Barzan Ibrahim Hasan AL-TIKRITI,true,true,,
+8192,8253,Individual,Raghad Saddam Hussein AL-TIKRITI,true,false,,
+8193,8254,Individual,Rana Saddam Hussein AL-TIKRITI,true,false,,
+8194,8255,Individual,Saja Barzan Ibrahim Hasan AL-TIKRITI,true,true,,
+8195,8256,Individual,Thoraya Barzan Ibrahim Hasan AL-TIKRITI,true,true,,
+8196,8257,Individual,Intissar AL-UBAYDI,true,false,,
+8197,8258,Individual,Samira SHAHBANDAR,true,false,false,
+8198,8259,Individual,Sajida Khayrallah TILFAH,true,false,,
+8210,8276,Entity,AL WASEL AND BABEL GENERAL TRADING LLC,true,,,
+8213,8282,Entity,AVIATRANS ANSTALT,true,,false,
+8214,8283,Entity,LOGARCHEO S.A.,true,,false,false
+8220,8352,Individual,Kamel DJERMANE,true,false,false,
+8225,8360,Entity,AL FURQAN,true,,false,
+8230,8383,Individual,Adib SHABAN,false,false,true,
+8231,8384,Individual,Roodi SLEWA,true,,false,
+8264,8425,Individual,Hassan Abdullah Hersi AL-TURKI,true,true,false,
+8405,7818,Entity,T.M.G. ENGINEERING LIMITED,true,,,
+8860,8523,Individual,Muhsin AL-FADHLI,false,true,false,true
+8883,8681,Individual,Muhammad Yunis AHMAD,true,false,false,
+8885,8635,Individual,Abu RUSDAN,true,true,false,false
+9329,8693,Individual,Yasir Sabawi Ibrahim Hasan AL-TIKRITI,true,true,false,true
+9330,8694,Individual,Omar Sabawi Ibrahim Hasan AL-TIKRITI,true,true,false,true
+9331,8695,Individual,Ayman Sabawi Ibrahim Hasan AL-TIKRITI,true,true,false,
+9332,8696,Individual,Ibrahim Sabawi Ibrahim Hasan AL-TIKRITI,true,true,false,true
+9334,8652,Entity,ISLAMIC JIHAD GROUP,true,,false,
+9345,10892,Entity,KOREA MINING DEVELOPMENT TRADING CORPORATION,true,,false,false
+9346,10894,Entity,TANCHON COMMERCIAL BANK,true,,false,false
+9347,10893,Entity,KOREA RYONBONG GENERAL CORPORATION,true,,false,false
+9353,8697,Individual,Bashar Sabawi Ibrahim Hasan AL-TIKRITI,true,true,false,
+9354,8698,Individual,Sa'd Sabawi Ibrahim Hasan AL-TIKRITI,true,true,false,
+9357,8683,Individual,Faycal BOUGHANEMI,true,true,false,true
+9358,8685,Individual,Abdelkader LAAGOUB,true,true,,true
+9443,14054,Individual,Godwin MATANGA,true,true,,true
+9519,12442,Entity,HESONG TRADING CORPORATION,true,,,false
+9520,12449,Entity,TOSONG TECHNOLOGY TRADING CORPORATION,true,,,false
+9521,12443,Entity,KOREA COMPLEX EQUIPMENT IMPORT CORPORATION,true,,,false
+9523,12445,Entity,KOREA KWANGSONG TRADING CORPORATION,true,,,false
+9524,13429,Entity,KOREA PUGANG TRADING CORPORATION,true,,,false
+9526,12444,Entity,KOREA INTERNATIONAL CHEMICAL JOINT VENTURE COMPANY,true,,false,false
+9527,12446,Entity,KOREA RYONHA MACHINERY JOINT VENTURE CORPORATION,true,,false,false
+9584,8788,Individual,Radulan SAHIRON,true,true,false,
+9585,8787,Individual,Isnilon Totoni HAPILON,true,true,false,
+9588,8781,Individual,Farhad Kanabi AHMAD,true,true,false,false
+9613,8837,Individual,Gabril Abdul Kareem BADRI,false,false,true,
+9614,8831,Individual,Abu Bakar BA'ASYIR,true,true,false,
+9615,8832,Individual,Gun Gun Rusman GUNAWAN,true,true,false,
+9616,8833,Individual,Taufik RIFKI,true,true,false,
+9617,8834,Individual,Abdullah ANSHORI,true,false,false,
+9763,9044,Entity,SANAM INDUSTRIAL GROUP,true,,false,false
+9764,9045,Entity,YA MAHDI INDUSTRIES GROUP,true,,false,false
+9769,8904,Individual,Viktar Uladzimiravich SHEIMAN,true,true,false,
+9797,13919,Individual,Viktar Aliaksandravich LUKASHENKA,false,false,true,
+10007,8970,Individual,Najmuddin Faraj AHMAD,true,true,false,
+10010,9225,Individual,Jaber AL-JALAMAH,false,true,true,true
+10011,9226,Individual,Mubarak Mushakhas Sanad AL-BATHALI,false,true,false,true
+10012,10911,Entity,KOREA HYOKSIN TRADING CORPORATION,true,,false,false
+10033,8708,Individual,Khawa Panga MANDRO,true,true,false,
+10035,8710,Individual,Laurent NKUNDA,true,true,false,
+10036,8713,Individual,Ignace MURWANASHYAKA,true,true,,
+10114,8983,Individual,Mohammed AL GHABRA,true,true,,true
+10136,13996,Individual,Petr Petrovich MIKLASHEVICH,false,false,true,
+10143,9068,Entity,BUTEMBO AIRLINES,true,,false,
+10325,9065,Individual,Straton MUSONI,true,true,,
+10371,8988,Entity,FARAYAND TECHNIQUE,true,,false,false
+10479,9057,Individual,Morteza REZAIE,true,true,false,false
+10480,9058,Individual,Ali Akbar AHMADIAN,true,true,false,false
+10481,9062,Individual,Qasem SOLEIMANI,true,true,false,true
+10483,12182,Individual,Mohammad HEJAZI,true,true,,false
+10483,9061,Individual,Mohammad HEJAZI,true,true,,false
+10489,11143,Entity,ORIENTAL OIL KISH,true,,,false
+10490,11136,Entity,GHORB KARBALA,true,,false,false
+10491,11147,Entity,SEPASAD ENGINEERING COMPANY,true,,,false
+10492,11137,Entity,GHORB NOOH,true,,,false
+10493,11139,Entity,OMRAN SAHEL,true,,,false
+10494,11140,Entity,SAHEL CONSULTANT ENGINEERS,true,,,false
+10495,11138,Entity,HARA COMPANY,true,,false,false
+10569,11903,Individual,Hafiz MAKHLUF,false,false,true,
+10581,9005,Individual,Bahmanyar Morteza BAHMANYAR,true,true,,true
+10582,9003,Individual,Ahmad Vahid DASTJERDI,true,true,false,true
+10583,9004,Individual,Reza-Gholi ESMAELI,true,true,,true
+10584,9002,Individual,Hosein SALIMI,true,,false,true
+10609,9055,Individual,Naser MALEKI,true,true,false,true
+10612,9157,Individual,Abdelmalek DROUKDEL,true,true,false,
+10689,9215,Individual,Muhammad SAEED,false,true,true,true
+10690,9216,Individual,Zaki-ur-Rehman LAKHVI,true,true,false,true
+10691,9217,Individual,Haji Muhammad ASHRAF,true,false,false,true
+10692,9218,Individual,Mahmoud Mohammad Ahmed BAHAZIQ,true,true,false,true
+10761,11090,Entity,AL-SHABAAB,true,,false,
+10848,10661,Individual,Angelo Ramirez TRINIDAD,true,true,false,
+10849,10665,Individual,Pio Abogne DE VERA,true,true,false,
+10850,10666,Individual,Redendo Cain DELLOSA,true,true,false,false
+10852,10668,Individual,Ricardo Perez AYERAS,true,true,false,
+10854,10662,Individual,Dinno Amor Rosalejos PAREJA,true,true,false,
+10856,9053,Individual,Mohsen HOJATI,true,true,,true
+10857,9054,Individual,Mehrdada Akhlaghi KETABACHI,true,true,false,true
+10858,11153,Entity,SHAHID SATTARI INDUSTRIES,true,,,false
+10860,9006,Individual,Yahya Rahim SAFAVI,true,true,false,false
+10861,9050,Individual,Mohsen FAKHRIZADEH-MAHABADI,true,,false,true
+10863,8990,Entity,7TH OF TIR,true,,false,false
+10887,9038,Entity,PARCHIN CHEMICAL INDUSTRIES,true,,false,false
+10890,12153,Entity,SYRIATEL,true,,false,
+10896,10747,Individual,Khalifa Muhammad Turki AL-SUBAIY,true,true,false,true
+10923,7210,Entity,REVIVAL OF ISLAMIC HERITAGE SOCIETY,true,,false,
+10932,6991,Entity,AL-HARAMAIN ISLAMIC FOUNDATION,true,,,
+10935,10690,Individual,Yahia DJOUADI,true,true,false,
+10936,10693,Individual,Ahmed DEGHDEGH,true,true,false,
+10937,10691,Individual,Abid HAMMADOU,false,true,true,
+11018,13344,Individual,Joseph KONY,true,true,,false
+11177,12208,Individual,Abdul Reza SHAHLAI,true,true,false,false
+11183,11953,Entity,SHIRAZ ELECTRONICS INDUSTRIES,true,,false,false
+11198,11148,Entity,FARASAKHT INDUSTRIES,true,,,false
+11311,11091,Individual,Ahmed Abdi AW-MOHAMED,true,true,false,
+11315,10753,Individual,Redouane EL HABHAB,true,true,false,true
+11322,10752,Individual,Adem YILMAZ,true,true,,false
+11353,7309,Individual,Abdul HAQ,false,false,true,false
+11353,10834,Individual,Abdul HAQ,true,true,false,true
+11355,10908,Individual,Fazeel-A-Tul Shaykh Abu Mohammed AMEEN AL-PESHAWARI,true,true,false,false
+11373,10906,Individual,Arif QASMANI,true,true,false,
+11376,10907,Individual,Mohammed Yahya MUJAHID,true,true,false,true
+11387,8714,Individual,Sylvestre MUDACUMURA,true,false,false,
+11388,10672,Individual,Callixte MBARUSHIMANA,true,true,,
+11389,10678,Individual,Pacifique NTAWUNGUKA,true,true,false,
+11390,10679,Individual,Leopold MUJYAMBERE,true,true,false,
+11391,10674,Individual,Stanislas NZEYIMANA,true,true,false,
+11441,10448,Entity,KHORASAN METALLURGY INDUSTRIES,true,,false,false
+11442,11126,Entity,KAVEH CUTTING TOOLS COMPANY,true,,false,false
+11443,11125,Entity,AMIN INDUSTRIAL COMPLEX,true,,false,false
+11446,10449,Entity,NIRU BATTERY MANUFACTURING COMPANY,true,,false,false
+11493,11052,Individual,Muthanna Harith AL-DARI,true,true,false,
+11532,10909,Entity,NAMCHONGANG TRADING CORPORATION,true,,false,false
+11533,10910,Entity,HONG KONG ELECTRONICS,true,,false,false
+11741,11095,Individual,Fares Mohammed MANA'A,true,true,false,true
+11743,8425,Individual,Hassan Abdullah Hersi AL-TURKI,true,true,false,
+11744,6995,Individual,Hassan Dahir AWEYS,true,false,false,
+11745,11092,Individual,Fuad Mohamed KHALAF,true,,false,
+11746,11091,Individual,Ahmed Abdi AW-MOHAMED,true,true,false,
+11747,10929,Individual,Yasin Ali BAYNAH,true,false,false,
+11748,11093,Individual,Bashir Mohamed MAHAMOUD,true,,false,
+11786,11236,Individual,Rostam QASEMI,true,false,false,false
+11974,8738,Individual,Thomas LUBANGA,true,false,false,
+11975,8735,Individual,Germain KATANGA,true,true,,
+11977,8709,Individual,Jules MUTEBUTSI,true,false,false,
+11982,11123,Individual,Qasim AL-RIMI,false,true,true,true
+12022,11096,Individual,Mohamed BELKALEM,true,true,false,
+12030,11209,Entity,JAVEDAN MEHR TOOS,true,,,false
+12057,10439,Individual,Mohammad Reza NAQDI,true,false,false,false
+12057,11234,Individual,Mohammad Reza NAQDI,true,true,false,false
+12057,11784,Individual,Mohammad Reza NAQDI,true,true,false,false
+12060,10647,Individual,Ahmad VAHIDI,true,false,,false
+12066,10638,Individual,Mohammad Ali JAFARI,true,true,true,false
+12109,11208,Individual,Anwar AL-AULAQI,false,true,true,
+12127,11207,Individual,Gul Agha ISHAKZAI,true,false,false,
+12128,11205,Individual,Amir ABDULLAH,true,false,false,
+12129,11206,Individual,Nasiruddin HAQQANI,true,false,false,
+12148,11270,Entity,HARAKAT-UL JIHAD ISLAMI,true,,false,
+12206,12032,Entity,TEHRIK-E TALIBAN PAKISTAN (TTP),true,,false,
+12209,12453,Entity,OFFICE 39,true,,false,false
+12211,12439,Individual,Yong Chol KIM,true,true,false,false
+12212,11282,Entity,GREEN PINE ASSOCIATED CORPORATION,true,,false,false
+12213,11285,Entity,SECOND ECONOMIC COMMITTEE,true,,,false
+12214,12447,Entity,MUNITIONS INDUSTRY DEPARTMENT,true,,false,false
+12215,12871,Entity,SECOND ACADEMY OF NATURAL SCIENCES,true,,false,false
+12219,11284,Entity,KOREA TAESONG TRADING COMPANY,true,,,false
+12220,11283,Entity,KOREA HEUNGJIN TRADING COMPANY,true,,false,false
+12251,11785,Individual,Ahmad-Reza RADAN,true,false,,false
+12253,12189,Individual,Sadeq MAHSOULI,true,false,false,false
+12254,11798,Individual,Saeed MORTAZAVI,false,false,true,false
+12255,12202,Individual,Heydar MOSLEHI,true,false,false,false
+12256,10644,Individual,Mostafa Mohammad NAJJAR,true,false,,false
+12257,11788,Individual,Hossein TAEB,true,false,false,false
+12312,11286,Entity,KOREA DAESONG BANK,true,,false,false
+12313,11287,Entity,KOREA DAESONG GENERAL TRADING CORPORATION,true,,false,false
+12321,11277,Individual,Felicien NSANZUBUKIRE,true,false,false,
+12322,11278,Individual,Innocent ZIMURINDA,true,true,,
+12326,11276,Individual,Gaston IYAMUREMYE,true,false,false,
+12328,11279,Individual,Leodomir MUGARAGU,true,false,false,
+12477,11580,Entity,BONYAD TAAVON SEPAH,true,,false,false
+12478,11581,Entity,ANSAR BANK,true,,false,false
+12481,11582,Entity,MEHR BANK,true,,false,false
+12555,12234,Individual,Milad JAFARI,true,true,,false
+12561,11633,Individual,Khalil Al-Rahman HAQQANI,false,true,true,
+12562,11634,Individual,Said Jan 'ABD AL-SALAM,true,true,false,true
+12598,12037,Individual,Muhammad Jibril ABDUL RAHMAN,true,true,false,true
+12599,12021,Individual,Umar PATEK,true,true,false,
+12608,11640,Individual,Saif al-Islam QADHAFI,true,true,false,
+12610,11635,Individual,Ayesha QADHAFI,false,true,false,true
+12629,11648,Individual,Saadi GADDAFI,false,true,false,true
+12632,11657,Individual,Abu Zaid DORDA,false,true,false,true
+12633,11659,Individual,Matuq Mohammed MATUQ,true,false,false,
+12634,11658,Individual,Abu Bakr Yunis JABIR,true,false,false,
+12635,11650,Individual,Abdullah AL-SENUSSI,true,false,false,
+12669,11743,Individual,Ibrahim Hassan Tali AL-ASIRI,true,true,false,true
+12685,11711,Entity,GADDAFI INTERNATIONAL CHARITY AND DEVELOPMENT FOUNDATION,true,,false,false
+12696,12451,Entity,BANK OF EAST LAND,true,,false,false
+12722,11901,Individual,Ali MAMLUK,true,false,false,
+12724,11911,Individual,Atif NAJIB,false,,true,
+12725,11909,Individual,Maher AL-ASSAD,true,true,false,false
+12735,11928,Individual,Bashar AL-ASSAD,false,true,true,false
+12738,12024,Individual,Ali Habib MAHMOUD,true,false,false,
+12740,11910,Individual,Mohammad Ibrahim AL-SHAAR,true,false,false,
+12740,12421,Individual,Mohammad Ibrahim AL-SHAAR,true,false,false,
+12742,12693,Entity,SYRIAN NATIONAL SECURITY BUREAU,true,,false,
+12744,12152,Entity,CHAM HOLDING,true,,false,
+12745,12017,Entity,BENA PROPERTIES,true,,false,
+12746,12018,Entity,AL MASHREQ INVESTMENT FUND,true,,false,
+12749,11907,Individual,Mohammed Dib ZAITOUN,false,false,true,
+12787,12012,Individual,Othman AL-GHAMDI,false,true,true,true
+12795,12454,Individual,Ahmad Zia AGHA,true,false,false,
+12797,12455,Individual,Fazl RABI,true,false,false,
+12798,12456,Individual,Mohammad Aman AKHUND,true,false,false,
+12812,11906,Individual,Jamil HASSAN,true,false,false,
+12813,12054,Entity,POLITICAL SECURITY DIRECTORATE,true,,false,
+12823,12030,Individual,Omar HAMMAMI,true,true,false,true
+12824,12029,Individual,Hassan Mahat OMAR,true,true,false,true
+12847,12203,Entity,COMMERCIAL BANK OF SYRIA,true,,,false
+12848,12487,Entity,SYRIAN LEBANESE COMMERCIAL BANK,true,,,false
+12867,12644,Entity,SYRIAN PETROLEUM COMPANY,true,,false,
+12870,12696,Entity,SYRIAN COMPANY FOR OIL TRANSPORT,true,,false,
+12881,12690,Individual,Bouthaina SHAABAN,true,false,false,
+12884,13691,Individual,Freddy Alirio BERNAL ROSALES,true,true,,false
+12890,12629,Individual,Mustafa Hajji Muhammad KHAN,true,true,false,
+12915,12204,Individual,Jamil MUKULU,true,true,false,
+12916,12631,Individual,Zafar IQBAL,true,true,false,true
+12917,12630,Individual,Hafiz Abdul Salam BHUTTAVI,true,false,false,
+12922,12632,Individual,Abdur REHMAN,true,true,false,true
+12923,12555,Individual,Fazal RAHIM,true,true,false,true
+12924,12156,Individual,Abdul Aziz ABBASIN,true,false,false,
+12929,12206,Individual,Manssor ARBABSIAR,true,true,false,true
+12930,12205,Individual,Hamed ABDOLLAHI,true,true,false,true
+12941,11200,Entity,IRAN CENTRIFUGE TECHNOLOGY COMPANY,true,,false,false
+12945,11779,Individual,Abdollah ARAGHI,true,false,false,false
+12956,11222,Entity,YASA PART,true,,false,false
+12958,12438,Individual,Ntabo Ntaberi SHEKA,true,true,,
+12960,13129,Individual,Ibrahim SULEIMAN HAMAD AL-HABLAIN,true,true,false,true
+13001,12011,Entity,MILITARY HOUSING ESTABLISHMENT,true,,,
+13057,12501,Individual,Yassin CHOUKA,true,true,false,true
+13058,12500,Individual,Monir CHOUKA,true,true,false,true
+13059,12502,Individual,Mevlut KAR,true,true,false,false
+13095,12627,Individual,Mochammad ACHWAN,true,true,false,true
+13097,12628,Individual,Abdul Rosyid Ridho BA'ASYIR,true,true,false,true
+13099,12556,Individual,Abdul Samad ACHEKZAI,true,false,false,
+13106,12276,Individual,Sayyid Ali Akbar TABATABAEI,false,,false,true
+13106,12274,Individual,Sayyid Ali Akbar TABATABAEI,false,,false,true
+13112,12050,Individual,Munir ADANOV,true,false,false,
+13153,11232,Individual,Ali FADAVI,true,true,false,false
+13156,10656,Entity,MINISTRY OF DEFENSE LOGISTICS EXPORT,true,,false,false
+13158,12700,Individual,Bakht GUL,true,false,false,
+13357,12735,Individual,Aboud Rogo MOHAMMED,true,true,false,
+13369,12737,Individual,Abubaker Shariff AHMED,true,false,false,
+13372,12428,Entity,INDUSTRIAL SOLUTIONS,true,,,
+13373,12429,Entity,MECHANICAL CONSTRUCTION FACTORY,true,,,
+13440,12734,Entity,SYRIAN ARAB AIRLINES,true,,false,false
+13471,12670,Individual,Adib MAYALEH,true,false,false,
+13482,12427,Entity,BUSINESS LAB,true,,,
+15005,12704,Entity,ROSHAN MONEY EXCHANGE,true,,false,
+15006,12703,Entity,HAJI KHAIRULLAH HAJI SATTAR MONEY EXCHANGE,true,,false,false
+15007,12701,Individual,Haji Abdul Sattar BARAKZAI,false,false,false,true
+15008,12702,Individual,Haji Khairullah BARAKZAI,false,false,false,true
+15009,13006,Individual,Abubakar SHEKAU,false,false,true,
+15194,12412,Individual,MOHAMMAD AL-JLEILATI,true,false,false,
+15216,12760,Individual,Qadri JAMIL,true,false,false,
+15217,12732,Entity,DREX TECHNOLOGIES S.A.,true,,false,false
+15221,12769,Individual,Bassam HANNA,true,false,,
+15222,12505,Individual,Mansour Fadlallah AZZAM,true,false,,
+15223,12504,Individual,Wael Nader AL-HALQI,true,false,,
+15224,12640,Individual,Hussein Mahmoud FARZAT,true,false,,
+15225,12637,Individual,Omar Ibrahim GHALAWANJI,true,false,,
+15226,12636,Individual,Imad Mohammad Deeb KHAMIS,true,true,,
+15270,13127,Individual,Azzam Abdullah Zureik Al-Maulid AL-SUBHI,true,true,false,true
+15486,13030,Entity,ARMY SUPPLY BUREAU,true,,,false
+15488,13024,Individual,Amr ARMANAZI,true,true,false,
+15517,12809,Individual,Aamir Ali CHAUDHRY,true,true,false,true
+15527,12812,Individual,Sultani MAKENGA,true,true,true,
+15550,12647,Individual,Reza TAGHIPOUR,true,false,false,false
+15552,11780,Individual,Ali FAZLI,true,false,,false
+15553,12646,Individual,Ezzatollah ZARGHAMI,true,false,false,false
+15564,12255,Entity,IRAN POOYA,true,,false,false
+15570,9049,Individual,Fereidoun ABBASI-DAVANI,true,false,false,false
+15580,12814,Entity,RAHAT LTD,true,,false,
+15581,12813,Individual,Mohammed QASIM,false,false,false,true
+15585,12841,Entity,M23,true,,false,false
+15590,13134,Individual,Maysar Ali Musa Abdallah AL-JUBURI,true,true,false,
+15591,13133,Individual,Anas Hasan KHATTAB,true,true,false,true
+15606,12023,Individual,Ayman JABER,false,false,true,false
+15610,12859,Individual,Hamad EL KHAIRY,false,false,true,true
+15611,12860,Individual,Ahmed EL TILEMSI,false,false,true,
+15615,12828,Individual,Baudoin NGARUYE,false,false,true,
+15630,12830,Individual,Innocent KAINA,true,false,true,
+15648,12492,Entity,SAD IMPORT EXPORT COMPANY,true,,,false
+15666,12847,Entity,KOREAN COMMITTEE FOR SPACE TECHNOLOGY,true,,false,false
+15667,12843,Individual,Chang-Ho PAEK,false,true,false,true
+15692,13126,Individual,Ahmed Abdullah Saleh al-Khazmari AL-ZAHRANI,false,true,false,true
+15718,12838,Individual,Eric BADEGE,true,false,,
+15771,11034,Individual,Kuk-Ryol O,true,false,false,false
+15788,12863,Individual,Mullah Ahmed Shah NOORZAI,false,true,false,true
+15832,12862,Individual,Iyad ag GHALI,true,false,false,
+15881,13862,Individual,Dmitriy KOMNOV,true,true,,
+15885,13886,Individual,Aleksey KRIVORUCHKO,true,true,false,
+15888,13870,Individual,Oleg LOGUNOV,true,true,,
+15892,13864,Individual,Ivan Pavlovitch PROKOPENKO,true,true,,
+15893,13854,Individual,Oleg F. SILCHENKO,true,true,,
+15894,13883,Individual,Yelena STASHINA,true,true,false,
+15897,13887,Individual,Svetlana UKHNALYOVA,true,true,false,
+15909,12820,Entity,ALUMINAT,true,,false,false
+15945,12883,Individual,Abu Muhammad AL-JAWLANI,false,false,true,
+15991,12650,Individual,Asghar MIR-HEJAZI,false,true,true,false
+16086,13431,Entity,DCB FINANCE LIMITED,true,,,false
+16225,12886,Individual,Mohamed LAHBOUS,true,false,false,
+16228,12996,Individual,Hussein ARNOUS,true,false,,
+16229,12986,Individual,Ahmad AL-QADRI,true,false,,
+16230,12991,Individual,Ismael ISMAEL,true,false,,
+16231,12989,Individual,Kinda AL-SHAMMAT,true,false,,
+16232,12990,Individual,Hassan HIJAZI,true,false,,
+16393,13865,Individual,Larisa Anatolievna LITVINOVA,true,true,,
+16394,13852,Individual,Dmitry Borisovich KRATOV,true,false,,
+16395,13860,Individual,Alexandra Viktorovna GAUS,false,true,true,
+16396,13859,Individual,Fikret TAGIYEV,true,true,false,
+16431,13877,Individual,Andrei Alexandrovich KRECHETOV,true,true,,
+16449,13131,Individual,'Abd al-Rahman bin 'Umayr AL-NU'AYMI,true,false,false,true
+16499,13084,Individual,'Abd Al-Rahman Muhammad Zafir Al-Dubaysi AL-JUHNI,false,true,false,true
+16517,13145,Individual,Saidullah JAN,true,false,false,false
+16518,13144,Individual,Yahya HAQQANI,true,false,false,
+16519,13146,Individual,Muhammad Omar ZADRAN,true,false,false,
+16642,12922,Individual,Sergey Valeryevich AKSYONOV,true,true,false,
+16646,12195,Individual,Morteza TAMADDON,true,false,,false
+16649,12935,Individual,Dmitry Olegovich ROGOZIN,true,true,false,
+16651,13266,Individual,Marial Chanuong Yol MANGOK,true,true,false,
+16655,12937,Individual,Vladislav Yurievich SURKOV,true,true,,
+16660,12943,Individual,Valentina Ivanovna MATVIYENKO,true,true,,
+16664,12912,Individual,Viktor Alekseevich OZEROV,true,true,false,
+16665,12913,Individual,Vladimir Michailovich DZHABAROV,true,true,,
+16668,12920,Individual,Sergei Vladimirovich ZHELEZNYAK,true,true,false,
+16670,12919,Individual,Sergei Mikhailovich MIRONOV,true,false,false,
+16673,12915,Individual,Nikolai Ivanovich RYZHKOV,true,false,false,
+16674,12917,Individual,Aleksandr Borisovich TOTOONOV,true,false,false,
+16678,12926,Individual,Aleksei Mikhailovich CHALIY,true,true,false,
+16680,13075,Individual,Yuri Valentinovich KOVALCHUK,false,true,true,
+16708,13124,Individual,Alexander Mikhailovich BABAKOV,true,true,false,false
+16715,12927,Individual,Pyotr Anatoliyovych ZIMA,true,false,false,
+16721,12896,Individual,Oleksandr Viktorovych YANUKOVYCH,true,false,false,
+16725,13833,Individual,Abdoulaye MISKINE,false,true,true,
+16753,12924,Individual,Rustam Ilmirovich TEMIRGALIEV,true,true,,
+16910,13265,Individual,James Koang CHUOL,true,false,false,true
+16912,13022,Individual,Peter GADET,true,false,false,
+16917,12956,Individual,Sergei Ivanovich NEVEROV,true,false,false,
+16934,12953,Individual,Sergei Ivanovich MENYAILO,true,true,false,
+16934,13971,Individual,Sergei Ivanovich MENYAILO,true,true,false,
+16936,13065,Individual,Valery Vladimirovich KAUROV,true,true,false,
+16938,12952,Individual,Oleg Genrikhovich SAVELYEV,true,true,,
+16949,12969,Individual,Oleg Grigorievich KOZYURA,true,true,false,
+16961,12964,Individual,Igor Vsevolodovich GIRKIN,true,true,false,false
+16996,12801,Entity,EXPERT PARTNERS,true,,false,
+16997,12799,Entity,MEGATRADE,true,,,
+17048,13128,Individual,Anders Cameroon Ostensvig DALE,true,false,false,
+17066,13086,Individual,Abu Mohammed AL-ADNANI,false,false,true,
+17123,13093,Individual,Miroslav Vladimirovich RUDENKO,true,true,false,
+17150,13269,Entity,HAJI BASIR AND ZARJMIL COMPANY HAWALA,true,,false,
+17151,13268,Individual,Haji Abdul BASIR,false,false,false,true
+17166,13132,Individual,'Abd al-Rahman Khalaf 'Ubayd Juday' AL-'ANIZI,true,false,false,
+17174,13135,Individual,Shafi Sultan Mohammed AL-AJMI,true,true,false,true
+17185,13089,Individual,Said ARIF,true,true,false,
+17188,13012,Individual,Alexander KHRYAKOV,true,true,false,
+17189,13088,Individual,Hamid Hamad Hamid AL-'ALI,true,true,false,true
+17208,13085,Individual,Abdul Mohsen Abdullah Ibrahim AL-SHARIKH,false,true,true,false
+17242,12486,Entity,AGRICULTURAL COOPERATIVE BANK,true,,false,false
+17243,12483,Entity,INDUSTRIAL BANK,true,,,false
+17244,12485,Entity,SAVING BANK,true,,false,
+17245,12484,Entity,POPULAR CREDIT BANK,true,,false,
+17261,12977,Individual,Natalia Vladimirovna POKLONSKAYA,true,true,false,
+17265,13067,Individual,Vladimir ANTYUFEYEV,true,true,false,
+17267,13021,Individual,Santino Deng WOL,true,true,false,
+17274,13242,Individual,Angga Dimas PERSHADA,true,true,false,true
+17275,13243,Individual,Bambang SUKIRNO,true,true,false,true
+17276,13244,Individual,Wiji Joko SANTOSO,true,true,false,true
+17279,13314,Individual,Nusret IMAMOVIC,true,true,false,true
+17280,13320,Individual,Mohammed Abdel-Halim Hemaida SALEH,true,true,false,
+17282,13292,Individual,Amru AL-ABSI,true,false,false,
+17283,13196,Individual,Tarkhan Tayumurazovich BATIRASHVILI,true,true,false,true
+17284,13147,Individual,Maalim SALMAN,true,false,false,
+17285,13279,Individual,Hamad Awad Dahi Sarhan AL-SHAMMARI,true,true,false,true
+17286,13277,Individual,'Abd al-Aziz Aday Zimin AL-FADHIL,false,true,false,true
+17290,13195,Individual,Ibrahim 'Isa Hajji Muhammad AL-BAKR,true,true,false,true
+17291,13197,Individual,'Abd al-Malik Muhammad Yusuf 'Uthman 'ABD AL-SALAM,true,true,false,true
+17292,13194,Individual,Ashraf Muhammad Yusuf 'Uthman 'ABD AL-SALAM,true,false,false,true
+17294,13321,Individual,Salim BENGHALEM,true,true,,
+17296,13315,Individual,Muhannad AL-NAJDI,true,true,false,
+17299,13323,Entity,HARAKAT SHAM AL-ISLAM,true,,false,
+17300,13312,Individual,Abd al-Baset AZZOUZ,true,true,false,true
+17301,13066,Individual,Serhii Anatoliyovych ZDRILIUK,true,true,false,
+17320,12992,Individual,Khodr ORFALI,true,false,false,
+17321,12988,Individual,Kamal Eddin TU'MA,true,false,false,
+17326,12713,Individual,Qusay MIHOUB,true,false,false,
+17368,13191,Individual,Abd al-Khaliq AL-HUTHI,false,false,true,false
+17386,13190,Individual,Abdullah Yahya AL HAKIM,true,false,false,false
+17387,13192,Individual,Ali Abdullah SALEH,true,true,false,true
+17448,12967,Individual,Konstantin MALOFEYEV,false,false,true,
+17546,13875,Individual,Victor Yakovlevich GRIN,true,true,false,
+17547,13872,Individual,Andrei Alexandrovich STRIZHOV,true,true,,
+17614,12439,Individual,Yong Chol KIM,true,false,,false
+17616,13337,Individual,Jin RYU,false,true,,true
+17622,13421,Individual,Sok Chol KIM,false,true,,true
+17668,13246,Individual,Maulana FAZLULLAH,true,false,false,
+17755,13078,Entity,RUSSIAN NATIONAL COMMERCIAL BANK,true,,false,false
+17808,13583,Individual,Antonio Jose BENAVIDES TORRES,true,true,,false
+17810,13581,Individual,Gustavo Enrique GONZALEZ LOPEZ,true,true,,false
+17967,13247,Individual,Ali Ouni HARZI,false,true,false,true
+18007,14067,Individual,Mahad KARATE,true,false,false,
+18008,13150,Individual,Ahmed DIRIYE,true,false,false,
+18047,13280,Individual,Sa'd bin Sa'd Muhammad Shariyan AL-KA'BI,true,true,false,true
+18048,13278,Individual,'Abd al-Latif Bin 'Abdallah Salih Muhammad AL-KAWARI,false,true,false,true
+18226,13264,Individual,Simon Gatwech DUAL,true,false,false,
+18427,13271,Individual,Alfred YEKATOM,true,true,false,
+18428,13272,Individual,Habib SOUSSOU,true,true,false,
+18429,13273,Individual,Oumar YOUNOUS,false,true,true,true
+18547,13699,Individual,Paul Malong AWAN,false,true,false,true
+18555,13335,Individual,Tae Hun KO,false,true,false,true
+18556,13327,Individual,Bom Su JANG,false,true,false,true
+18557,13325,Individual,Song Il CHOE,false,false,,true
+18558,13332,Individual,Jung Jong KIM,false,true,false,true
+18559,13329,Individual,Myong Guk JON,false,true,false,true
+18589,13294,Individual,Mu'tassim Yahya 'Ali AL-RUMAYSH,true,true,false,true
+18590,13316,Individual,Morad LAABOUDI,true,true,false,true
+18591,13317,Individual,Ali Musa AL-SHAWAKH,true,false,false,
+18594,13295,Individual,Tarad Mohammad ALJARBA,false,true,false,true
+18600,13318,Individual,Husayn Al-Salihin Salih AL-SHA'IRI,false,false,false,true
+18603,13319,Individual,Mounir Ben Dhaou Ben Brahim Ben HELAL,true,true,false,false
+18620,13352,Individual,Tuah FEBRIWANSYAH,true,true,false,true
+18621,13354,Individual,Muhammad Sholeh IBRAHIM,true,true,false,
+18629,13285,Individual,Aqsa MAHMOOD,true,true,false,true
+18630,13288,Individual,Sally-Anne Frances JONES,true,true,false,true
+18633,13290,Individual,Peter CHERIF,true,false,false,
+18634,13313,Individual,Gulmurod KHALIMOV,true,true,,false
+18637,13291,Individual,Maxime HAUCHARD,true,true,false,
+18651,13297,Individual,Aseel MUTHANA,true,false,false,
+18652,13299,Individual,Islam Seit-Umarovich ATABIYEV,false,false,false,true
+18655,12963,Individual,Sergey Gennadevich TSYPLAKOV,true,true,false,
+18656,13182,Individual,Vladyslav Nykolayevych DEYNEGO,true,true,false,
+18688,13306,Individual,Torek AGHA,true,false,false,true
+18963,13298,Individual,Maghomed Maghomedzakirovich ABDURAKHMANOV,true,true,false,true
+18996,13232,Individual,George HASWANI,true,true,false,
+19030,13097,Individual,Andrei Nikolaevich RODKIN,true,true,false,
+19035,13174,Individual,Aleksandr Igorevich KOFMAN,true,true,false,
+19099,13853,Individual,Aleksey Vasilyevich ANICHIN,true,true,false,
+19100,13345,Entity,LORD'S RESISTANCE ARMY,true,,false,
+19128,13309,Individual,Eugene Barret NGAIKOSSET,true,true,false,false
+19129,13308,Individual,Haroun GAYE,true,true,false,false
+19268,13868,Individual,Boris Borisovich KIBIS,true,true,,
+19348,13349,Individual,Nayf Salam Muhammad Ujaym AL-HABABI,false,false,false,true
+19448,13353,Individual,Husayn JUAYTHINI,true,true,false,true
+19449,13350,Individual,Turki Mubarak Abdullah Ahmad AL-BINALI,true,true,false,true
+19450,13351,Individual,Faysal Ahmad 'Ali AL-ZAHRANI,false,true,false,true
+19492,13339,Entity,ACADEMY OF NATIONAL DEFENSE SCIENCE,true,,,false
+19493,13342,Entity,MINISTRY OF ATOMIC ENERGY INDUSTRY,true,,,false
+19498,13257,Individual,Chun-sik CHOE,true,false,false,false
+19508,13426,Entity,ILSIM INTERNATIONAL BANK,true,,,false
+19509,13425,Entity,KOREA UNITED DEVELOPMENT BANK,true,,,false
+19530,13343,Entity,NATIONAL AEROSPACE DEVELOPMENT ADMINISTRATION,true,,false,false
+19531,13415,Individual,Song Chol KIM,false,true,false,true
+19533,13414,Individual,Chun Il PAK,false,true,,true
+19609,13418,Individual,Won Ho RI,false,true,,true
+19613,13551,Entity,KOREA RUNGRADO GENERAL TRADING CORPORATION,true,,false,false
+19629,13427,Entity,SINGWANG ECONOMICS AND TRADING GENERAL CORPORATION,true,,,false
+19630,13428,Entity,KOREA FOREIGN TECHNICAL TRADE CENTER,true,,,false
+19769,13347,Individual,Khalifa Mohamed Ahmed GHAWIL,false,true,false,true
+19791,13471,Individual,Il-U CHO,false,true,false,true
+19850,13448,Individual,Ghalib Abdullah AL-ZAIDI,true,false,false,
+19891,13449,Individual,Nayif Salih Salim AL-QAYSI,true,false,false,true
+19929,13379,Individual,Salim KONY,true,false,false,
+19930,13378,Individual,Ali KONY,true,false,false,
+20029,13701,Entity,PJSC MOSTOTREST,true,,false,false
+20050,13435,Individual,Celestin KANYAMA,true,true,false,true
+20123,13542,Entity,ORGANIZATION AND GUIDANCE DEPARTMENT,true,,,false
+20239,13376,Individual,Aslan Avgazarovich BYUTUKAEV,true,true,false,
+20240,13377,Individual,Ayrat Nasimovich VAKHITOV,true,true,false,
+20272,13100,Individual,Mikhail Sergeyevich SHEREMET,true,true,,
+20282,13099,Individual,Georgiy L'vovich MURADOV,true,true,,
+20419,13433,Individual,Gabriel Amisi KUMBA,true,true,false,false
+20420,13436,Individual,John NUMBI,true,false,,false
+20569,13537,Entity,KORYO CREDIT DEVELOPMENT BANK,true,,false,false
+20572,13486,Entity,KORYO BANK,true,,,false
+20578,13538,Entity,MANSUDAE OVERSEAS PROJECT GROUP OF COMPANIES,true,,false,false
+20580,13484,Entity,KANGBONG TRADING CORPORATION,true,,,false
+20601,13479,Individual,Han Se PAK,false,,false,true
+20603,13485,Entity,KOREA KUMSAN TRADING CORPORATION,true,,,false
+20604,13474,Individual,Chol Nam KIM,false,true,,true
+20604,13588,Individual,Chol Nam KIM,true,true,,true
+20883,13967,Individual,Jamal Husayn ZAYNIYAH,false,true,true,true
+20900,13458,Individual,Abdoulaye HISSENE,true,true,false,true
+20920,13392,Individual,Dmitry Anatolievich BELIK,true,true,,false
+20922,13391,Individual,Konstantin Mikhailovich BAKHAREV,true,true,,false
+20923,13390,Individual,Ruslan Ismailovich BALBEK,true,true,,false
+20924,13394,Individual,Svetlana Borisovna SAVCHENKO,true,true,,false
+20940,13229,Individual,Ghassan ABBAS,true,true,,
+20941,13494,Individual,Ali WANUS,true,true,,
+20942,13493,Individual,Samir DABUL,true,true,,
+20948,13162,Individual,Muhammad Nafi BILAL,false,true,true,false
+20949,13495,Individual,Yasin Ahmad DAHI,true,false,,false
+20959,13450,Individual,Ahmad BALLUL,true,true,false,
+20964,13399,Individual,Ali GHANEM,true,false,,
+20965,13398,Individual,Ali AL-ZAFIR,true,false,false,
+20967,13406,Individual,Ahmad AL-HAMO,false,false,true,
+20969,13395,Individual,Pavel Valentinovich SHPEROV,true,true,,false
+21143,13467,Individual,Kalev MUTONDO,true,true,false,true
+21144,13459,Individual,Evariste BOSHAB,true,true,false,false
+21165,13452,Individual,Muhammad IBRAHIM,true,true,,
+21171,13968,Individual,Yevgeniy Viktorovich PRIGOZHIN,true,true,false,false
+21186,13867,Individual,Alexander Ivanovich BASTRYKIN,true,true,,false
+21248,13228,Individual,Bayan BITAR,true,true,false,
+21265,13446,Individual,Bassam Ahmad AL-HASRI,true,true,false,false
+21266,13447,Individual,Iyad Nazmi Salih KHALIL,true,false,false,true
+21330,13748,Individual,Igor Olegovich KOSTYUKOV,true,true,false,false
+21331,13747,Individual,Vladimir Stepanovich ALEXSEYEV,true,false,,false
+21363,13511,Individual,Alexanda Amon KOTEY,true,true,false,false
+21388,13518,Individual,Oman ROCHMAN,true,true,false,false
+21405,13830,Entity,JAMAAH ANSHARUT DAULAH,true,,false,
+21443,13366,Individual,Won Hong KIM,false,false,true,false
+21643,13490,Individual,Fared SAAL,true,true,false,true
+21728,13513,Individual,El Shafee ELSHEIKH,false,true,true,false
+21731,13714,Individual,Anjem CHOUDARY,true,true,false,false
+21732,13539,Individual,Shane Dominic CRAWFORD,true,true,false,false
+21733,13532,Individual,Chol Su KANG,false,true,,true
+21734,13535,Individual,Il-Kyu PAK,false,,false,true
+21735,13482,Individual,Su Yong RI,false,true,,true
+21736,13530,Individual,Sung Nam JANG,false,true,,true
+21744,13531,Individual,Chol Song JO,false,true,false,true
+21746,13534,Individual,Nam Ung KIM,false,,,true
+21747,13527,Individual,Chun Yong CHOE,false,,false,true
+21748,13476,Individual,Tong-ho KIM,false,true,,true
+21749,13528,Individual,Jang Su HAN,false,true,false,true
+21959,13508,Individual,Hala SIRHAN,true,true,,
+22183,13584,Individual,Maikel Jose MORENO PEREZ,true,false,,false
+22247,13845,Individual,Juan Jose MENDOZA JOVER,true,true,,false
+22255,13236,Entity,SYRIAN COMPANY FOR INFORMATION TECHNOLOGY,true,,false,
+22259,11934,Individual,Iyad MAKHLUF,false,true,false,true
+22260,11937,Individual,Ihab MAKHLUF,false,true,false,true
+22284,13548,Entity,KOREAN PEOPLE'S ARMY,true,,,false
+22286,13664,Individual,Su-Kwang KIM,false,true,true,false
+22409,13723,Individual,Leonid Ivanovich PASECHNIK,false,true,true,false
+22411,12968,Individual,Petr Grigorievich JAROSH,true,true,false,false
+22464,13617,Entity,AL-KAWTHAR MONEY EXCHANGE,true,,false,
+22747,13580,Individual,Nestor Luis REVEROL TORRES,true,true,,false
+22748,13688,Individual,Elias Jose JAUA MILANO,true,true,,false
+22750,13585,Individual,Tarek William SAAB HALABI,true,false,,false
+22751,13582,Individual,Tibisay LUCENA RAMIREZ,true,true,,false
+22752,13683,Individual,Jesus Rafael SUAREZ CHOURIO,true,true,,false
+22753,13680,Individual,Sergio Jose RIVERO MARCANO,true,true,,false
+22863,13615,Individual,Salim Mustafa Muhammad AL-MANSUR,true,false,false,false
+22903,13698,Individual,Malek Reuben RIAK RENGU,true,true,false,false
+22987,13567,Individual,Won Uk PAE,false,true,false,true
+22988,13571,Individual,Chun Song RI,false,true,false,true
+22990,13564,Individual,Chol Man KO,false,true,false,true
+22993,13570,Individual,Chun Hwan RI,false,true,false,true
+22997,13566,Individual,Kyong Hwan MUN,false,true,false,true
+23011,13569,Individual,Mun Il PAK,false,true,false,true
+23014,13560,Individual,Hyo'k CHU,false,true,false,true
+23016,13562,Individual,Kyong Il KIM,false,true,false,true
+23126,13690,Individual,Sandra OBLITAS RUZZA,true,true,,false
+23127,13695,Individual,Socorro Elizabeth HERNANDEZ DE HERNANDEZ,false,true,,true
+23130,13846,Individual,Jorge Elieser MARQUEZ MONSALVE,true,true,,false
+23253,13856,Individual,Gennady Vyacheslavovich KARLOV,true,true,,false
+23278,13682,Individual,Maung Maung SOE,true,true,,false
+23305,14005,Individual,Yankuba BADJIE,true,true,false,false
+23383,14065,Individual,Abukar Ali ADAN,true,false,false,
+23471,11796,Individual,Mohammad MOGHISSEH,true,false,false,false
+23545,13521,Individual,Andrey Vladimirovich CHEREZOV,true,true,false,false
+23546,13522,Individual,Evgeniy Petrovich GRABCHAK,true,true,false,false
+23558,13558,Individual,Dmitry Vladimirovich OVSYANNIKOV,true,true,,false
+23582,13208,Individual,Aleksandr Yurievich TIMOFEEV,true,false,false,false
+23634,6911,Individual,Abdul Qadeer Basir ABDUL BASEER,true,false,false,false
+23643,13604,Individual,Muhindo Akili MUNDOS,true,true,false,false
+23644,13605,Individual,Guidon Shimiray MWISSA,true,true,,false
+23703,13678,Individual,Abdulpatta Escalon ABUBAKAR,true,true,false,true
+23705,13627,Entity,CHONMYONG SHIPPING CO,true,,false,false
+23706,13629,Entity,HAPJANGGANG SHIPPING CORP,true,,,false
+23707,13632,Entity,KOREA ACHIM SHIPPING CO,true,,,false
+23708,13633,Entity,KOREA ANSAN SHIPPING COMPANY,true,,false,false
+23711,13634,Entity,KOREA MYONGDOK SHIPPING CO,true,,,false
+23714,13637,Entity,KOREA YUJONG SHIPPING CO LTD,true,,,false
+23715,13640,Entity,PAEKMA SHIPPING CO,true,,,false
+23717,13641,Entity,PHYONGCHON SHIPPING & MARINE,true,,false,false
+23724,13639,Entity,MYOHYANG SHIPPING CO,true,,,false
+23725,13628,Entity,FIRST OIL JV CO LTD,true,,,false
+23763,13626,Entity,CHANG AN SHIPPING & TECHNOLOGY,true,,false,false
+23775,13645,Entity,WEIHAI WORLD-SHIPPING FREIGHT,true,,,false
+23777,13630,Entity,HUAXIN SHIPPING HONGKONG LTD,true,,,false
+23785,13638,Entity,KOTI CORP,true,,,false
+23787,13646,Entity,YUK TUNG ENERGY PTE LTD,true,,,false
+23823,13625,Individual,Yung Yuan TSANG,false,true,false,true
+23824,13642,Entity,PRO-GAIN GROUP CORPORATION,true,,,false
+23923,13619,Individual,Abdifatah Abubakar ABDI,true,true,false,false
+23924,13618,Individual,Ahmad Iman ALI,true,false,false,false
+24309,13036,Individual,Nikolai Platonovich PATRUSHEV,true,true,,false
+24311,13675,Individual,Mohamed KOSHLAF,false,true,false,true
+24314,13673,Individual,Ahmed DABBASHI,false,true,false,true
+24315,13035,Individual,Mikhail Efimovich FRADKOV,true,true,,false
+24423,13677,Individual,Myrna Ajijul MABANZA,true,true,false,true
+24424,13586,Individual,Diosdado CABELLO RONDON,true,true,,false
+24547,13706,Individual,Adnan Abu Walid AL-SAHRAWI,false,true,true,false
+24585,12865,Individual,Abdolsamad KHORAMABADI,true,false,,false
+24590,11778,Individual,Hossein ALLAHKARAM,true,false,,false
+24704,13836,Individual,Francisco DIAZ,false,true,false,true
+24807,13735,Individual,Khin HLAING,true,true,,false
+24808,13681,Individual,Aung Kyaw ZAW,true,true,false,false
+24809,13692,Individual,Thura San LWIN,true,true,,false
+24810,13689,Individual,Khin Maung SOE,true,false,,false
+24902,14068,Individual,Muhammad AL-QATIRJI,false,true,false,true
+24957,13711,Individual,Ibrahim JADHRAN,false,true,false,true
+25038,13913,Individual,Mahmud AL-WARFALLI,false,false,true,false
+25077,13687,Individual,Delcy Eloina RODRIGUEZ GOMEZ,true,true,false,false
+26077,13885,Individual,Meshal Saad M. ALBOSTANI,false,true,false,true
+26079,13863,Individual,Naif Hassan S. ALARIFI,true,true,false,true
+26080,13892,Individual,Mohammed Saad H. ALZAHRANI,false,true,,true
+26081,13861,Individual,Mansour Othman M. ABAHUSSAIN,false,true,false,true
+26082,13882,Individual,Khalid Aedh G. ALOTAIBI,false,true,false,true
+26083,13866,Individual,Abdulaziz Mohammed M. ALHAWSAWI,false,true,,true
+26084,13871,Individual,Waleed Abdullah M. ALSEHRI,false,true,false,true
+26085,13857,Individual,Thaar Ghaleb T. ALHARBI,true,true,,true
+26087,13893,Individual,Maher Abdulaziz M. MUTREB,false,true,,true
+26088,13855,Individual,Fahad Shabib A. ALBALAWI,false,true,,true
+26089,13891,Individual,Badr Lafi M. ALOTAIBI,false,true,false,true
+26090,13869,Individual,Mustafa Mohammed M. ALMADANI,false,true,false,true
+26093,13895,Individual,Saud AL-QAHTANI,false,true,false,true
+26094,13719,Individual,Salah BADI,true,false,false,false
+26095,13720,Individual,Hajji 'ABD AL-NASIR,true,false,false,
+26170,13744,Individual,Alexander Yevgeniyevich MISHKIN,true,true,false,false
+26171,13751,Individual,Anatoliy Vladimirovich CHEPIGA,true,true,false,false
+26173,13906,Individual,Aleksei Sergeyevich MORENETS,false,true,,true
+26177,13907,Individual,Evgenii Mikhaylovich SEREBRIAKOV,true,true,,true
+26178,13908,Individual,Oleg Mikhaylovich SOTNIKOV,false,true,,true
+26179,13905,Individual,Alexey Valerevich MININ,false,true,,true
+26388,14008,Individual,Rafael Enrique BASTARDO MENDOZA,true,true,false,false
+26416,14009,Individual,Remigio CEBALLOS ICHASO,true,true,,false
+26886,13755,Individual,Samer FOZ,true,false,false,false
+26889,13817,Individual,Amer FOZ,true,true,false,false
+26894,13765,Entity,AMAN DAMASCUS JOINT STOCK COMPANY,true,,false,
+26925,13835,Individual,Sonia CASTRO GONZALEZ,true,true,,true
+26941,11235,Individual,Mohammad PAKPOUR,false,false,true,false
+26990,13790,Individual,Bah Ag MOUSSA,true,true,false,false
+27000,13789,Individual,Ali MAYCHOU,true,true,false,false
+27040,13797,Individual,Hannover Esteban GUERRERO MIJARES,true,true,,true
+27041,13792,Individual,Rafael Ramon BLANCO MARRERO,true,true,,true
+27042,13795,Individual,Rafael Antonio FRANCO QUINTERO,true,true,,true
+27043,13796,Individual,Alexander Enrique GRANKO ARTEAGA,false,true,,true
+27153,13802,Individual,Mohamed Ben Ahmed MAHRI,true,true,false,true
+27154,13803,Individual,Mohamed Ould MATALY,true,false,,true
+27155,13801,Individual,Mahri Sidi Amar BEN DAHA,true,true,false,true
+27156,13800,Individual,Houka Houka AG ALHOUSSEINI,true,true,false,false
+27223,13684,Individual,Than OO,true,true,,false
+27224,13686,Individual,Aung AUNG,true,false,,false
+27225,13897,Individual,Min Aung HLAING,true,true,,false
+27226,13898,Individual,Soe WIN,true,true,,false
+27484,13834,Individual,Ramon Antonio AVELLAN MEDAL,true,true,,true
+27583,13799,Individual,Ahmed AG ALBACHAR,true,true,false,false
+27687,13841,Individual,Jose Adelino ORNELAS FERREIRA,true,true,false,false
+27724,13793,Individual,Carlos Alberto CALDERON CHIRINOS,true,false,,true
+27863,13791,Individual,Nestor Neptali BLANCO HURTADO,true,true,,false
+27865,13812,Individual,Amadou KOUFFA,false,false,true,false
+28184,13926,Individual,Alexander Nikolaevich GANOV,true,true,false,false
+28307,13851,Individual,Jose Gregorio NORIEGA FIGUEROA,true,true,,true
+28308,13849,Individual,Luis Eduardo PARRA RIVERO,true,true,,true
+28312,13850,Individual,Franklyn Leonardo DUARTE,true,true,,false
+28349,13811,Individual,Mikhail Vladimirovich RAZVOZHAEV,false,true,true,false
+28350,13810,Individual,Vladimir Vladimirovich NEMTSEV,true,true,false,false
+28351,13805,Individual,Sergei Andreevich DANILENKO,true,true,,false
+28352,13806,Individual,Lidia Aleksandrovna BASOVA,true,false,false,false
+28524,13838,Individual,Luis Alberto PEREZ OLIVAS,true,true,,true
+28526,13839,Individual,Justo Pastor URBINA,true,true,,true
+28563,14053,Individual,Anselem Nhamo SANYATWE,true,true,,true
+28564,14052,Individual,Owen NCUBE,true,true,,false
+28717,13840,Individual,Amir Muhammad Sa'id Abdal-Rahman AL-MAWLA,true,true,false,false
+29026,13760,Individual,Khaled AL-ZUBAIDI,true,false,false,false
+29027,13763,Individual,Nader KALAI,false,true,true,true
+29043,13766,Entity,BUNYAN DAMASCUS PRIVATE JOINT STOCK COMPANY,true,,false,false
+29045,13821,Individual,Adel Anwar AL-OLABI,true,false,false,false
+29048,13764,Entity,RAWAFED DAMASCUS PRIVATE JOINT STOCK COMPANY,true,,false,false
+29068,12634,Individual,Asma AL-ASSAD,false,true,true,false
+29072,12550,Individual,Bushra AL-ASSAD,false,true,true,false
+29076,12635,Individual,Manal AL-ASSAD,true,true,false,false
+29402,14070,Individual,Luna AL SHIBL,false,true,true,false
+29462,14072,Individual,Yasser Hussein IBRAHIM,true,true,false,false
+29663,13936,Individual,Ivan Uladzimiravich KUBRAKOU,true,true,false,false
+30084,12726,Individual,Ghassan Jaoudat ISMAIL,true,false,false,false
+30229,13818,Individual,Saqr RUSTOM,true,false,false,false
+30426,14066,Individual,Maalim AYMAN,true,false,false,false
+30663,12503,Entity,CENTRAL BANK OF SYRIA,true,,false,false
+30743,12222,Individual,Kifah MOULHEM,true,false,false,false
+30976,12692,Entity,MINISTRY OF INTERIOR,true,,false,false
+31122,13969,Individual,Andrei Veniaminovich YARIN,true,true,,false
+31123,13970,Individual,Sergei Vladilenovich KIRIYENKO,true,true,,false
+31124,13974,Individual,Aleksei Yurievich KRIVORUCHKO,true,true,,false
+31125,13973,Individual,Pavel Anatolievich POPOV,true,true,,false
+31126,13037,Individual,Aleksandr Vasilievich BORTNIKOV,true,true,,false
+31126,13972,Individual,Aleksandr Vasilievich BORTNIKOV,true,true,,false
+31129,14056,Individual,Soe HTUT,true,false,,false
+31131,14058,Individual,Mya Tun OO,true,true,,false
+31133,14059,Individual,Tin Aung SAN,true,true,,false
+31134,14063,Individual,Ye Win OO,true,false,,false
+31137,14061,Individual,Aung Lin DWE,true,true,false,false
+31162,13894,Individual,Ahmad Hassan Mohammed AL ASIRI,true,false,false,false
+31171,14062,Individual,Moe Myint TUN,true,true,,false
+31172,14060,Individual,Maung Maung KYAW,true,true,,false
+31474,14057,Individual,Than HLAING,true,false,,false
