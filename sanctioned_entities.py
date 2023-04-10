@@ -105,8 +105,6 @@ def main():
     result = matches(spark, standardize_data(spark, ofac_df),
                      standardize_data(spark, gbr_df))
     result.cache()
-    import time
-    time.sleep(5000)
     print(f"Total {result.count()} sanctioned entities have matched")
     result.coalesce(1).write.option("header", True).mode(
         "overwrite").csv("results/")
